@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.bg-container1 {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-arrange {
+  display: flex;
+}
+
+.color-container {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+}
+p {
+  margin: 12px;
+  color: #ffffff;
+}
+
+.heading {
+  color: #00e7ff;
+}
+
+.border {
+  border: 2px solid #00e7ff;
+  padding: 2px;
+}
